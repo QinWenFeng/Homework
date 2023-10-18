@@ -16,7 +16,7 @@
 
 ### Requirement
 | Part | Method | Testing MAPE |
-| :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: |
 | Basic | Matrix Inversion | <= 10% |
 | Basic | Gradient Descent | <= 10% |
 | Advanced | Matrix Inversion / Gradient Descent | <= 15% |
@@ -37,7 +37,7 @@
 
 ### Requirement
 | Part | Method | Testing f1-score |
-| :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: |
 | Basic | Naive Bayesian Classifier | > 0.3 |
 | Advanced | Gaussian Naive Bayesian Classifier | > 0.35 |
 
