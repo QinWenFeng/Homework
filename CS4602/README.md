@@ -43,6 +43,6 @@
 
 ### Result
 | Part | Method | Validation f1-score | Testing f1-score | Ranking |
-| :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: |
 | Basic | Naive Bayesian Classifier | 0.37375745 | 0.35304424 | - |
 | Advanced | Gaussian Naive Bayesian Classifier | 0.43236074 | 0.4647343 | 129/196 |
